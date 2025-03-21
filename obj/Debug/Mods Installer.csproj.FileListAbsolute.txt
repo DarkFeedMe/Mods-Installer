@@ -1,0 +1,9 @@
+D:\Gamez\Riot Games\Proto\abandoned\Mods Installer\Mods Installer\bin\Debug\Mods Installer.exe.config
+D:\Gamez\Riot Games\Proto\abandoned\Mods Installer\Mods Installer\bin\Debug\Mods Installer.exe
+D:\Gamez\Riot Games\Proto\abandoned\Mods Installer\Mods Installer\bin\Debug\Mods Installer.pdb
+D:\Gamez\Riot Games\Proto\abandoned\Mods Installer\Mods Installer\obj\Debug\Mods Installer.csproj.AssemblyReference.cache
+D:\Gamez\Riot Games\Proto\abandoned\Mods Installer\Mods Installer\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Gamez\Riot Games\Proto\abandoned\Mods Installer\Mods Installer\obj\Debug\Mods Installer.csproj.ResolveComReference.cache
+D:\Gamez\Riot Games\Proto\abandoned\Mods Installer\Mods Installer\obj\Debug\Mods Installer.csproj.CoreCompileInputs.cache
+D:\Gamez\Riot Games\Proto\abandoned\Mods Installer\Mods Installer\obj\Debug\Mods Installer.exe
+D:\Gamez\Riot Games\Proto\abandoned\Mods Installer\Mods Installer\obj\Debug\Mods Installer.pdb
